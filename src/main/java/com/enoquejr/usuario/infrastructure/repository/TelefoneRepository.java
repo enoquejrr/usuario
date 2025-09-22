@@ -1,7 +1,7 @@
-package infrastructure.repository;
+package com.enoquejr.usuario.infrastructure.repository;
 
 
-import infrastructure.entity.Telefone;
+import com.enoquejr.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

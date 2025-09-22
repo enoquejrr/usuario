@@ -1,4 +1,4 @@
-package infrastructure.security;
+package com.enoquejr.usuario.infrastructure.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
